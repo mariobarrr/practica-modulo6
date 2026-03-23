@@ -27,7 +27,7 @@ Aplicación web de portfolio y blog personal desarrollada con React y Node.js. P
 | CSS Modules | — | Estilos por componente |
 | Vite | 5 | Bundler y servidor de desarrollo |
 
----
+----
 
 ## 🚀 Instalación
 
